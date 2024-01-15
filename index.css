@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to right, #FF67E1,#FF8DE8,#FFB3F0,#FFA0EC,#FFB3F0,#FFB3F0,#FFA0EC,#FFB3F0,#FF8DE8,#FF8DE8,#FFA0EC);
+  }
+.text{
+    font-size: 150%;
+}
+.hel:hover{
+    translate: 230%;
+
+}
+.gif{
+    margin-left: 30%;
+    
+}
+.gif2{
+    opacity: 0;
+    display: none;
+}
